@@ -20,6 +20,9 @@ This page summarizes repositories of thermal tensor network methods developed in
   
   *Square lattice Fermionic/Bosonic iPEPS code based on TensorKit.jl.*
 
+- [LocalSpaces.jl](https://github.com/phyjswang/LocalSpaces.jl)
+  
+  *Providing operators for FiniteMPS.jl, based on TensorKitTensors.jl.*
 ## Data repositories
 
 
