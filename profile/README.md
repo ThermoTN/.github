@@ -23,6 +23,11 @@ This page summarizes repositories of thermal tensor network methods developed in
 - [LocalSpaces.jl](https://github.com/phyjswang/LocalSpaces.jl)
   
   *Providing operators for FiniteMPS.jl, based on TensorKitTensors.jl.*
+
+- [ThermoTN_Skills](https://github.com/ThermoTN/ThermoTN_Skills)
+
+  *Codex skills for scientific software maintained by Prof. Wei Li's group.*
+
 ## Data repositories
 
 
